@@ -1,0 +1,27 @@
+{
+  "name": "Awesome Calculator",
+  "short_name": "Calculator",
+  "icons": [
+    {
+      "src": "./assets/logo_bgputih.png",
+      "sizes": "128x127",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/logo_blue.png",
+      "sizes": "451x387",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/logo.png",
+      "sizes": "451x387",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
